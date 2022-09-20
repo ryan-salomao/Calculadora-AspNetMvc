@@ -1,0 +1,21 @@
+@{
+    ViewData["Title"] = "Cadastrar";
+}
+
+<h1 class="display-4">Cadastrar</h1>
+<p>Utilize o formulário para realizar seu cadastro</p>
+
+<form action="CadastrarUsuario" method="post">
+    <label for="nome">Nome: </label>
+    <input type="text" name="nome" id="nome" >
+
+    <label for="email">Email: </label>
+    <input type="email" name="email" id="email" >
+
+    <p>
+        <label for="senha">Senha: </label>
+        <input type="password" name="senha" id="senha" >
+    </p>
+    
+    <input type="submit" value="Enviar">
+</form>

@@ -16323,6 +16323,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\ryan\\CalculadoraAspNetMvc\\Views\\Cadastro\\Cadastro.cshtml",
+      "TargetPath": "Views\\Cadastro\\Cadastro.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\ryan\\CalculadoraAspNetMvc\\Views\\OperacoesMatematicas\\Subtrair.cshtml",
       "TargetPath": "Views\\OperacoesMatematicas\\Subtrair.cshtml",
       "FileKind": "mvc"
