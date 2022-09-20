@@ -16303,8 +16303,18 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\ryan\\CalculadoraAspNetMvc\\Views\\Calculadora\\ResultadoCalculadora.cshtml",
+      "TargetPath": "Views\\Calculadora\\ResultadoCalculadora.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\ryan\\CalculadoraAspNetMvc\\Views\\OperacoesMatematicas\\ResultadoMultiplicacao.cshtml",
       "TargetPath": "Views\\OperacoesMatematicas\\ResultadoMultiplicacao.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\ryan\\CalculadoraAspNetMvc\\Views\\Calculadora\\Calculadora.cshtml",
+      "TargetPath": "Views\\Calculadora\\Calculadora.cshtml",
       "FileKind": "mvc"
     },
     {

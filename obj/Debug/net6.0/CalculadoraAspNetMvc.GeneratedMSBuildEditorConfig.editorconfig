@@ -15,6 +15,14 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\ryan\CalculadoraAspNetMvc
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/ryan/CalculadoraAspNetMvc/Views/Calculadora/Calculadora.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FsY3VsYWRvcmFcQ2FsY3VsYWRvcmEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ryan/CalculadoraAspNetMvc/Views/Calculadora/ResultadoCalculadora.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FsY3VsYWRvcmFcUmVzdWx0YWRvQ2FsY3VsYWRvcmEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/ryan/CalculadoraAspNetMvc/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
